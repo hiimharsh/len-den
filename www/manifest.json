@@ -1,6 +1,7 @@
+
 {
-  "name": "Ecom Application",
-  "short_name": "Ecom",
+  "name": "My Ionic App",
+  "short_name": "My Ionic App",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
